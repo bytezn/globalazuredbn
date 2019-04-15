@@ -1,2 +1,1 @@
-# globalazuredbn
-demos for global azure bootcamp
+This templet is to rollout and appservice
